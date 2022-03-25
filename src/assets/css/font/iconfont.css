@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2682921 */
+  src: url('//at.alicdn.com/t/font_2682921_mrhhcxey3t.woff2?t=1627572464406') format('woff2'),
+       url('//at.alicdn.com/t/font_2682921_mrhhcxey3t.woff?t=1627572464406') format('woff'),
+       url('//at.alicdn.com/t/font_2682921_mrhhcxey3t.ttf?t=1627572464406') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-huaban881:before {
+  content: "\e604";
+}
+
+.icon-huaban88:before {
+  content: "\e61b";
+}
+
+.icon-xiangqing:before {
+  content: "\e61a";
+}
+
+.icon-iconfontlike:before {
+  content: "\e602";
+}
+
+.icon-pinglun:before {
+  content: "\e601";
+}
+
+.icon-biaoqing:before {
+  content: "\e608";
+}
+
+.icon-juejin:before {
+  content: "\e600";
+}
+
+.icon-mayun:before {
+  content: "\e6d0";
+}
+
+.icon-csdn:before {
+  content: "\e61d";
+}
+
+.icon-wechat:before {
+  content: "\e603";
+}
+
+.icon-QQ:before {
+  content: "\e639";
+}
+
